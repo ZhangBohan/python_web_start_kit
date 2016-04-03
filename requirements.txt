@@ -2,3 +2,4 @@ flask
 flask-script
 flask-sqlalchemy
 flask-migrate
+psycopg2
